@@ -3,3 +3,5 @@
 2 hello ted £¡!
 
 Git has a mutable index called stage
+
+push to github
